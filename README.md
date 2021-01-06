@@ -8,6 +8,6 @@ Using Two model:
 Logistic Regression Model
 Decision Tree Model
 ---
-Final Reult: 
+##Final Reult: 
 Decision Tree perform **slightly better** than Logistic Regression Model
 Yet this is an **insignificant difference** between the two.
