@@ -8,7 +8,7 @@ This including but not limited to the information of the customers.
 
 ---
 ### Using Two model: 
-Logistic Regression Model
+Logistic Regression Model  
 Decision Tree Model
 
 ---
