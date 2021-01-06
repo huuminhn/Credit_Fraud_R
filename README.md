@@ -1,3 +1,5 @@
+<img src="Credit_fraud.jpg?raw=true"/>
+
 #### Credit Fraud Classification:
 Using "creditcard.csv" downloaded from https://www.kaggle.com/mlg-ulb/creditcardfraud
 
