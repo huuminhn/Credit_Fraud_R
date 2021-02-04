@@ -10,8 +10,11 @@ This including but not limited to the information of the customers.
 
 ---
 #### Model Building: 
-Logistic Regression Model  
-Decision Tree Model  
+**Logistic Regression Model**, the ROC curve:  
+<img src="Rplot_ROC.png?raw=true"/>
+
+**Decision Tree Model**:  
+<img src="Rplot_Tree.png?raw=true"/>
 
 ---
 #### Final Reult: 
