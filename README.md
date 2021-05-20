@@ -9,7 +9,7 @@ Predict any credit fraudulent based on each transaction characteristics.
 This including but not limited to the information of the customers.
 
 ---
-#### Mode Building: 
+#### Model Building: 
 **Logistic Regression Model**, the ROC curve:  
 <img src="Rplot_ROC.png?raw=true"/>
 
