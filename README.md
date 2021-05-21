@@ -6,7 +6,7 @@ Using "creditcard.csv" downloaded from https://www.kaggle.com/mlg-ulb/creditcard
 ---
 #### Purpose of this project is Prediction:
 Predict any credit fraudulent based on each transaction characteristics.   
-This including but not limited to the information of the customers.
+This including but not limited to  information of the customers.
 
 ---
 #### Model Building: 
